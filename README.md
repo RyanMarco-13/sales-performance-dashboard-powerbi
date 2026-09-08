@@ -1,4 +1,4 @@
-# 📊 Sales Performance Dashboard — Power BI
+# 📊 Retail-category-sales-dashboard — Power BI
 
 An interactive Power BI dashboard analyzing sales, profit, and quantity performance across product categories and regions, built as a hands-on practice project to apply data modelling, DAX, and dashboard design skills.
 
